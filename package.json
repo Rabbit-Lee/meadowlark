@@ -1,0 +1,19 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "test + coffee（学习之用）",
+  "main": "main.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rabbit-Lee/meadowlark.git"
+  },
+  "author": "Andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rabbit-Lee/meadowlark/issues"
+  },
+  "homepage": "https://github.com/Rabbit-Lee/meadowlark#readme"
+}
